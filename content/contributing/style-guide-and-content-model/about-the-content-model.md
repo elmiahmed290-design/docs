@@ -1,4 +1,4 @@
----
+47a8b8c7cdabaf4e03dac36c7f07e34f04c78aad---
 title: About the content model
 shortTitle: About the content model
 intro: The content model describes the structure and types of content that we publish.
